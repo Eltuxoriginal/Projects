@@ -1,4 +1,4 @@
-#404 Linux Style
+<h1>404 Linux Style</h1>
 
 Este es un proyecto de una pagina de error de 404 con particulas Interactivas y mensages personalizados, los mensajes y codigos de error se manjan desde un archivo JS en especifico para que la implementacion de nuevos codigos y mensajes sea aún más sencillo
 
