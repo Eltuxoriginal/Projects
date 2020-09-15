@@ -1,8 +1,8 @@
 * {
-background:			#0a0f14;
-foreground:			#98d1ce;
-selected:			#195465;
-urgent:				#c33027;
-on:					#26a98b;
-off:				#c33027;
+background:			#000000;
+foreground:			#e8e1dd;
+selected:			#645a53;
+urgent:				#13100e;
+on:					#27221f;
+off:				#13100e;
 }
