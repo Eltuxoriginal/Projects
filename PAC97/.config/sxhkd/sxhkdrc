@@ -30,8 +30,8 @@ super + shift {w,m,r}
 super + shift + x
 	sh ~/.config/rofi/bin/powermenu
 
-ctrl + alt + {s,n,t}
-	sh ~/.config/rofi/bin/{screenshot,network,themes}
+ctrl + alt + {s,n}
+	sh ~/.config/rofi/bin/{screenshot,network}
 
 ##---------- Applications ----------##
 
